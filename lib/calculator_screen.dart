@@ -20,7 +20,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
       appBar: AppBar(
         backgroundColor: Colors.deepOrangeAccent,
         title: const Text(
-          'Calculatorsss',
+          'Calculator',
           style: TextStyle(
               fontSize: 25, color: Colors.black, fontWeight: FontWeight.w500),
         ),
